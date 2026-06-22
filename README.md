@@ -1,15 +1,15 @@
-<!-- Copy of profile README for TEZv/TEZv — palette: plum · dusty rose · blush -->
+<!-- palette: lavender · peach blossom · periwinkle -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a1a24,50:5c3d52,100:b87a9a&height=170&section=header&text=Oksana%20Kolisnyk&fontSize=42&fontColor=fff5f8&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1828,50:6b5b95,100:f5b8c4&height=170&section=header&text=Oksana%20Kolisnyk&fontSize=42&fontColor=faf7ff&animation=fadeIn" alt="header" />
 </div>
 
 <h3 align="center">Strategist / Producer / Creator · J. Lover · Data & AI-assisted prototyping · <a href="https://github.com/K-RnD-Lab">@K-RnD-Lab</a></h3>
 
 <p align="center">
-  <a href="https://kosatiks-group.pp.ua/"><img src="https://img.shields.io/badge/Website-kosatiks--group.pp.ua-C97B9A?style=for-the-badge&logo=googlechrome&logoColor=fff5f8" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/oksana-kolisnyk-0b9632247/"><img src="https://img.shields.io/badge/LinkedIn-oksana--kolisnyk-9B6B9E?style=for-the-badge&logo=linkedin&logoColor=fff5f8" alt="LinkedIn" /></a>
-  <a href="mailto:kosatiks.group@gmail.com"><img src="https://img.shields.io/badge/Email-kosatiks.group%40gmail.com-D4899E?style=for-the-badge&logo=gmail&logoColor=fff5f8" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Made%20in-Ukraine%20🇺🇦-7B8FD4?style=for-the-badge" alt="Made in Ukraine" />
+  <a href="https://kosatiks-group.pp.ua/"><img src="https://img.shields.io/badge/Website-kosatiks--group.pp.ua-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=faf7ff" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/oksana-kolisnyk-0b9632247/"><img src="https://img.shields.io/badge/LinkedIn-oksana--kolisnyk-8B7FD4?style=for-the-badge&logo=linkedin&logoColor=faf7ff" alt="LinkedIn" /></a>
+  <a href="mailto:kosatiks.group@gmail.com"><img src="https://img.shields.io/badge/Email-kosatiks.group%40gmail.com-F4A9C8?style=for-the-badge&logo=gmail&logoColor=1e1828" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Made%20in-Ukraine%20🇺🇦-7BA3D8?style=for-the-badge" alt="Made in Ukraine" />
 </p>
 
 ## 📜 About
@@ -27,23 +27,23 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-C97B9A?style=flat-square&logo=streamlit&logoColor=fff5f8" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/dbt-D4899E?style=flat-square&logo=dbt&logoColor=fff5f8" alt="dbt" />
-  <img src="https://img.shields.io/badge/BigQuery-9B6B9E?style=flat-square&logo=googlebigquery&logoColor=fff5f8" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-B87A9A?style=flat-square&logo=google&logoColor=fff5f8" alt="Apps Script" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-8E7BA8?style=flat-square&logo=githubactions&logoColor=fff5f8" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Vercel-5c3d52?style=flat-square&logo=vercel&logoColor=fff5f8" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Streamlit-F4A9C8?style=flat-square&logo=streamlit&logoColor=1e1828" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/dbt-C9B1FF?style=flat-square&logo=dbt&logoColor=1e1828" alt="dbt" />
+  <img src="https://img.shields.io/badge/BigQuery-A78BFA?style=flat-square&logo=googlebigquery&logoColor=faf7ff" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-8B7FD4?style=flat-square&logo=google&logoColor=faf7ff" alt="Apps Script" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-B8A9E8?style=flat-square&logo=githubactions&logoColor=1e1828" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-6b5b95?style=flat-square&logo=vercel&logoColor=faf7ff" alt="Vercel" />
 </p>
 
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=TEZv&show_icons=true&theme=dark&hide_border=true&bg_color=1a1418&title_color=f8e1ea&text_color=b8a4b0&icon_color=e8a4c4&cacheBust=2" alt="GitHub stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TEZv&layout=compact&theme=dark&hide_border=true&bg_color=1a1418&title_color=f8e1ea&text_color=b8a4b0&cacheBust=2" alt="Top languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=TEZv&show_icons=true&theme=dark&hide_border=true&bg_color=15121c&title_color=e8e0ff&text_color=a8a0c4&icon_color=c9b1ff&cacheBust=3" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TEZv&layout=compact&theme=dark&hide_border=true&bg_color=15121c&title_color=e8e0ff&text_color=a8a0c4&cacheBust=3" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEZv&theme=dark&hide_border=true&background=1a1418&ring=c97b9a&fire=d4899e&currStreakLabel=f8e1ea&sideLabels=b8a4b0&dates=b8a4b0" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEZv&theme=dark&hide_border=true&background=15121c&ring=b8a9e8&fire=f4a9c8&currStreakLabel=e8e0ff&sideLabels=a8a0c4&dates=a8a0c4" alt="GitHub streak" />
 </p>
 
 ---
@@ -54,24 +54,24 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 <tr>
 <td width="50%">
 
-[![Kosatiks-Group](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=Kosatiks-Group&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/TEZv/Kosatiks-Group)
+[![Kosatiks-Group](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=Kosatiks-Group&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/TEZv/Kosatiks-Group)
 
 </td>
 <td width="50%">
 
-[![homepage](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=homepage&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/TEZv/homepage)
+[![homepage](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=homepage&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/TEZv/homepage)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![portfolio-website](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=portfolio-website&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/TEZv/portfolio-website)
+[![portfolio-website](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=portfolio-website&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/TEZv/portfolio-website)
 
 </td>
 <td width="50%">
 
-[![it-market-monitor](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=it-market-monitor&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/TEZv/it-market-monitor)
+[![it-market-monitor](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=it-market-monitor&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/TEZv/it-market-monitor)
 
 </td>
 </tr>
@@ -83,24 +83,24 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 <tr>
 <td width="50%">
 
-[![de-lab](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=de-lab&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/TEZv/de-lab)
+[![de-lab](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=de-lab&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/TEZv/de-lab)
 
 </td>
 <td width="50%">
 
-[![devops-lab](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=devops-lab&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/TEZv/devops-lab)
+[![devops-lab](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=devops-lab&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/TEZv/devops-lab)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![Data-Specialist-Portfolio](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=Data-Specialist-Portfolio&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/TEZv/Data-Specialist-Portfolio)
+[![Data-Specialist-Portfolio](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=Data-Specialist-Portfolio&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/TEZv/Data-Specialist-Portfolio)
 
 </td>
 <td width="50%">
 
-[![Data-Analyst-Roadmap](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=Data-Analyst-Roadmap&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/TEZv/Data-Analyst-Roadmap)
+[![Data-Analyst-Roadmap](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=Data-Analyst-Roadmap&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/TEZv/Data-Analyst-Roadmap)
 
 </td>
 </tr>
@@ -112,24 +112,24 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 <tr>
 <td width="50%">
 
-[![SPHERE-FRONTIER](https://github-readme-stats-fast.vercel.app/api/pin?username=K-RnD-Lab&repo=SPHERE-FRONTIER&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/K-RnD-Lab/SPHERE-FRONTIER)
+[![SPHERE-FRONTIER](https://github-readme-stats-fast.vercel.app/api/pin?username=K-RnD-Lab&repo=SPHERE-FRONTIER&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/K-RnD-Lab/SPHERE-FRONTIER)
 
 </td>
 <td width="50%">
 
-[![SPHERE-I-SCIENCE](https://github-readme-stats-fast.vercel.app/api/pin?username=K-RnD-Lab&repo=SPHERE-I-SCIENCE&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/K-RnD-Lab/SPHERE-I-SCIENCE)
+[![SPHERE-I-SCIENCE](https://github-readme-stats-fast.vercel.app/api/pin?username=K-RnD-Lab&repo=SPHERE-I-SCIENCE&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/K-RnD-Lab/SPHERE-I-SCIENCE)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![SPHERE-II-ENTREPRENEURSHIP](https://github-readme-stats-fast.vercel.app/api/pin?username=K-RnD-Lab&repo=SPHERE-II-ENTREPRENEURSHIP&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/K-RnD-Lab/SPHERE-II-ENTREPRENEURSHIP)
+[![SPHERE-II-ENTREPRENEURSHIP](https://github-readme-stats-fast.vercel.app/api/pin?username=K-RnD-Lab&repo=SPHERE-II-ENTREPRENEURSHIP&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/K-RnD-Lab/SPHERE-II-ENTREPRENEURSHIP)
 
 </td>
 <td width="50%">
 
-[![SPHERE-III-TECHNOLOGY](https://github-readme-stats-fast.vercel.app/api/pin?username=K-RnD-Lab&repo=SPHERE-III-TECHNOLOGY&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/K-RnD-Lab/SPHERE-III-TECHNOLOGY)
+[![SPHERE-III-TECHNOLOGY](https://github-readme-stats-fast.vercel.app/api/pin?username=K-RnD-Lab&repo=SPHERE-III-TECHNOLOGY&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/K-RnD-Lab/SPHERE-III-TECHNOLOGY)
 
 </td>
 </tr>
@@ -141,12 +141,12 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 <tr>
 <td width="50%">
 
-[![pythonauto-gitpull](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=pythonauto-gitpull&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/TEZv/pythonauto-gitpull)
+[![pythonauto-gitpull](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=pythonauto-gitpull&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/TEZv/pythonauto-gitpull)
 
 </td>
 <td width="50%">
 
-[![CS50-AI-Python](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=CS50-AI-Python&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/TEZv/CS50-AI-Python)
+[![CS50-AI-Python](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=CS50-AI-Python&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/TEZv/CS50-AI-Python)
 
 </td>
 </tr>
@@ -158,24 +158,24 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 <tr>
 <td width="50%">
 
-[![SKELAR-Test-Task](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=SKELAR-Test-Task-MarketingFactory&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/TEZv/SKELAR-Test-Task-MarketingFactory)
+[![SKELAR-Test-Task](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=SKELAR-Test-Task-MarketingFactory&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/TEZv/SKELAR-Test-Task-MarketingFactory)
 
 </td>
 <td width="50%">
 
-[![Genesis-Academy](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=Genesis-Academy_Strategy-Operations-School-2.0-Case-Task&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/TEZv/Genesis-Academy_Strategy-Operations-School-2.0-Case-Task)
+[![Genesis-Academy](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=Genesis-Academy_Strategy-Operations-School-2.0-Case-Task&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/TEZv/Genesis-Academy_Strategy-Operations-School-2.0-Case-Task)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![OBRIO-Career-Storm](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=OBRIO-Career-Storm-v.3&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/TEZv/OBRIO-Career-Storm-v.3)
+[![OBRIO-Career-Storm](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=OBRIO-Career-Storm-v.3&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/TEZv/OBRIO-Career-Storm-v.3)
 
 </td>
 <td width="50%">
 
-[![United-Tech-Test-Task](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=United-Tech-Test-Task-Creative-Marketing-Internship&title_color=f8e1ea&icon_color=e8a4c4&text_color=b8a4b0&bg_color=1a1418&cacheBust=2)](https://github.com/TEZv/United-Tech-Test-Task-Creative-Marketing-Internship)
+[![United-Tech-Test-Task](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=United-Tech-Test-Task-Creative-Marketing-Internship&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&cacheBust=3)](https://github.com/TEZv/United-Tech-Test-Task-Creative-Marketing-Internship)
 
 </td>
 </tr>
