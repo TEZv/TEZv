@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1828,50:6b5b95,100:f5b8c4&height=170&section=header&text=Oksana%20Kolisnyk&fontSize=42&fontColor=faf7ff&animation=fadeIn" alt="header" />
 </div>
 
-<h3 align="center">Strategist / Producer / Creator · J. Lover · Data & AI-assisted prototyping · <a href="https://github.com/K-RnD-Lab">@K-RnD-Lab</a></h3>
+<h3 align="center">Strategist / Producer / Creator · J Lover · Data & AI-assisted prototyping · <a href="https://github.com/K-RnD-Lab">@K-RnD-Lab</a></h3>
 
 <p align="center">
   <a href="https://kosatiks-group.pp.ua/"><img src="https://img.shields.io/badge/Website-kosatiks--group.pp.ua-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=faf7ff" alt="Website" /></a>
@@ -16,7 +16,7 @@
 
 Strategist, producer, and creator for **early-stage clarity**, **positioning**, **research**, and **first working prototypes**. I help founders, creators, and small teams turn ambiguous ideas into **service maps**, **messaging**, **client-facing hubs**, and **usable first versions** — with hands-on **Python / SQL / Streamlit** logic and **AI-assisted prototyping**.
 
-**J. Lover** — in work and in fiction: *J.* is the hero of my book series; he stays in the story, and the loyalty stays real.
+**J Lover** — in work and in fiction: *J* is the hero of my book series; he stays in the story, and the loyalty stays real.
 
 Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Technical Producer at **Kosatiks Group** · Research hub lead at **[@K-RnD-Lab](https://github.com/K-RnD-Lab)**.
 
@@ -211,5 +211,5 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 ---
 
 <p align="center">
-  <i>From Kyiv, Ukraine — strategist, producer, creator. J. Lover.</i>
+  <i>From Kyiv, Ukraine — strategist, producer, creator. J Lover.</i>
 </p>
