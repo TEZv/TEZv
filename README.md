@@ -16,7 +16,7 @@
 
 Strategist, producer, and creator for **early-stage clarity**, **positioning**, **research**, and **first working prototypes**. I help founders, creators, and small teams turn ambiguous ideas into **service maps**, **messaging**, **client-facing hubs**, and **usable first versions** — with hands-on **Python / SQL / Streamlit** logic and **AI-assisted prototyping**.
 
-**J. Lover** — in work and in fiction: *J.* is the hero of my novel; he stays in the story, and the loyalty stays real.
+**J. Lover** — in work and in fiction: *J.* is the hero of my series; he stays in the story, and the loyalty stays real.
 
 Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Technical Producer at **Kosatiks Group** · Research hub lead at **[@K-RnD-Lab](https://github.com/K-RnD-Lab)**.
 
