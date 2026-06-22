@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header&text=Oksana%20Kolisnyk&fontSize=42&fontColor=e8e8e8&animation=fadeIn" alt="header" />
 </div>
 
-<h3 align="center">Producer / Strategy · Data & AI-Assisted Prototyping</h3>
+<h3 align="center">Strategist / Producer / Creator · J. Lover · Data & AI-assisted prototyping · <a href="https://github.com/K-RnD-Lab">@K-RnD-Lab</a></h3>
 
 <p align="center">
   <a href="https://kosatiks-group.pp.ua/"><img src="https://img.shields.io/badge/Website-kosatiks--group.pp.ua-0f3460?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -14,7 +14,9 @@
 
 ## 📜 About
 
-Producer-strategist for **early-stage clarity**, **positioning**, **research**, and **first working prototypes**. I help founders, creators, and small teams turn ambiguous ideas into **service maps**, **messaging**, **client-facing hubs**, and **usable first versions** — with hands-on **Python / SQL / Streamlit** logic and **AI-assisted prototyping**.
+Strategist, producer, and creator for **early-stage clarity**, **positioning**, **research**, and **first working prototypes**. I help founders, creators, and small teams turn ambiguous ideas into **service maps**, **messaging**, **client-facing hubs**, and **usable first versions** — with hands-on **Python / SQL / Streamlit** logic and **AI-assisted prototyping**.
+
+**J. Lover** — in work and in fiction: *J.* is the hero of my novel; he stays in the story, and the loyalty stays real.
 
 Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Technical Producer at **Kosatiks Group** · Research hub lead at **[@K-RnD-Lab](https://github.com/K-RnD-Lab)**.
 
@@ -182,5 +184,5 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 ---
 
 <p align="center">
-  <i>From Kyiv, Ukraine — building clarity, systems, and first working versions.</i>
+  <i>From Kyiv, Ukraine — strategist, producer, creator. J. Lover.</i>
 </p>
