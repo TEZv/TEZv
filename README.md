@@ -37,7 +37,7 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 **Product, design & workflow**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=notion,figma,vscode,postman,markdown&theme=dark&perline=9" alt="Workflow stack" />
+  <img src="https://skillicons.dev/icons?i=notion,figma,vscode,postman,md&theme=dark&perline=9" alt="Workflow stack" />
 </p>
 
 **Data engineering & analytics**
