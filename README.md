@@ -22,17 +22,44 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 
 ## 🛠 Tech Stack
 
+**Core & apps**
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,js,ts,react,nodejs,docker,terraform,k8s,git,github,notion&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,html,css,tailwind,fastapi&theme=dark&perline=9" alt="Core stack" />
 </p>
+
+**Data, cloud & DevOps**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,gcp,docker,kubernetes,terraform,git,github,linux,bash&theme=dark&perline=9" alt="Data and DevOps stack" />
+</p>
+
+**Product, design & workflow**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=notion,figma,vscode,postman,markdown&theme=dark&perline=9" alt="Workflow stack" />
+</p>
+
+**Data engineering & analytics**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Streamlit-F4A9C8?style=flat-square&logo=streamlit&logoColor=1e1828" alt="Streamlit" />
   <img src="https://img.shields.io/badge/dbt-C9B1FF?style=flat-square&logo=dbt&logoColor=1e1828" alt="dbt" />
   <img src="https://img.shields.io/badge/BigQuery-A78BFA?style=flat-square&logo=googlebigquery&logoColor=faf7ff" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-8B7FD4?style=flat-square&logo=google&logoColor=faf7ff" alt="Apps Script" />
+  <img src="https://img.shields.io/badge/pandas-F4A9C8?style=flat-square&logo=pandas&logoColor=1e1828" alt="pandas" />
+  <img src="https://img.shields.io/badge/pytest-B8A9E8?style=flat-square&logo=pytest&logoColor=1e1828" alt="pytest" />
+  <img src="https://img.shields.io/badge/PostgreSQL-8B7FD4?style=flat-square&logo=postgresql&logoColor=faf7ff" alt="PostgreSQL" />
+</p>
+
+**Automation, deploy & AI-assisted build**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Sheets-8B7FD4?style=flat-square&logo=googlesheets&logoColor=faf7ff" alt="Google Sheets" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-A78BFA?style=flat-square&logo=google&logoColor=faf7ff" alt="Apps Script" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-B8A9E8?style=flat-square&logo=githubactions&logoColor=1e1828" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Vercel-6b5b95?style=flat-square&logo=vercel&logoColor=faf7ff" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cursor-C9B1FF?style=flat-square&logo=cursor&logoColor=1e1828" alt="Cursor" />
+  <img src="https://img.shields.io/badge/AI--assisted%20prototyping-F4A9C8?style=flat-square&logo=openai&logoColor=1e1828" alt="AI-assisted prototyping" />
 </p>
 
 ## 📊 Stats
