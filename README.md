@@ -7,8 +7,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TEZv&label=Profile%20views&color=f4a9c8&style=plastic" alt="Profile views" />
-  <!-- WakaTime: після підключення заміни src на badge з wakatime.com/settings/embed -->
-  <a href="https://wakatime.com/@TEZv"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=TEZv&theme=dark&hide_border=true&bg_color=1e1828&title_color=e8e0ff&text_color=a8a0c4&icon_color=c9b1ff&layout=compact&langs_count=4&custom_title=WakaTime" alt="WakaTime" /></a>
 </p>
 
 <p align="center">
@@ -87,7 +85,6 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TEZv&theme=transparent&bg_color=15121c&hide_border=true" alt="Contribution breakdown" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TEZv&theme=transparent&bg_color=15121c&hide_border=true" alt="Productive time" />
 </p>
 
 ---
