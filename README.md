@@ -8,8 +8,6 @@
 <p align="center">
   <img src="https://profile-views-vercel.vercel.app/api/pixel/tezv" width="0" height="0" alt="" />
   <img src="https://img.shields.io/endpoint?url=https://profile-views-vercel.vercel.app/api/badge/tezv&label=Profile%20views&color=f4a9c8&labelColor=555555&style=plastic" alt="Profile views" />
-  <a href="https://github.com/TEZv/TEZv/blob/main/dist/coding-stats.json"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TEZv/TEZv/main/dist/coding-stats.json&style=plastic&logo=clock&logoColor=white" alt="Coding time (all time)" /></a>
-  <a href="https://github.com/TEZv/TEZv/blob/main/dist/coding-stats-week.json"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TEZv/TEZv/main/dist/coding-stats-week.json&style=plastic&logo=calendar&logoColor=white" alt="Coding time (this week)" /></a>
   <a href="https://wakatime.com/dashboard"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TEZv/TEZv/main/dist/wakatime-stats.json&style=plastic&logo=wakatime&logoColor=white" alt="WakaTime today" /></a>
   <a href="https://wakatime.com/dashboard"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TEZv/TEZv/main/dist/wakatime-stats-week.json&style=plastic&logo=wakatime&logoColor=white" alt="WakaTime this week" /></a>
   <img src="https://img.shields.io/github/commit-activity/t/TEZv/de-lab?label=de-lab&color=A78BFA&style=plastic" alt="de-lab activity" />
