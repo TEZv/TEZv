@@ -7,7 +7,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TEZv&label=Profile%20views&color=f4a9c8&style=plastic" alt="Profile views" />
-  <a href="https://wakatime.com/@b4a6f099-22c2-4ff5-9ed3-e95624ee86a9"><img src="https://wakatime.com/badge/user/b4a6f099-22c2-4ff5-9ed3-e95624ee86a9.svg" alt="WakaTime" /></a>
+  <a href="https://wakatime.com/@b4a6f099-22c2-4ff5-9ed3-e95624ee86a9"><img src="https://img.shields.io/badge/wakatime-0%20secs%20→%20tracking-A78BFA?style=plastic&logo=wakatime&logoColor=faf7ff" alt="WakaTime" /></a>
+  <!-- коли з’явиться час: замінити на https://wakatime.com/badge/user/b4a6f099-22c2-4ff5-9ed3-e95624ee86a9.svg -->
 </p>
 
 <p align="center">
@@ -228,3 +229,5 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 <p align="center">
   <i>From Kyiv, Ukraine — strategist, producer, creator. J Lover.</i>
 </p>
+
+
