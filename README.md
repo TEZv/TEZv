@@ -6,6 +6,12 @@
 <h3 align="center">Strategist / Producer / Creator · J Lover · Data & AI-assisted prototyping · <a href="https://github.com/K-RnD-Lab">@K-RnD-Lab</a></h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TEZv&label=Profile%20views&color=f4a9c8&style=plastic" alt="Profile views" />
+  <!-- WakaTime: після підключення заміни src на badge з wakatime.com/settings/embed -->
+  <a href="https://wakatime.com/@TEZv"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=TEZv&theme=dark&hide_border=true&bg_color=1e1828&title_color=e8e0ff&text_color=a8a0c4&icon_color=c9b1ff&layout=compact&langs_count=4&custom_title=WakaTime" alt="WakaTime" /></a>
+</p>
+
+<p align="center">
   <a href="https://kosatiks-group.pp.ua/"><img src="https://img.shields.io/badge/Website-kosatiks--group.pp.ua-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=faf7ff" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/oksana-kolisnyk-0b9632247/"><img src="https://img.shields.io/badge/LinkedIn-oksana--kolisnyk-8B7FD4?style=for-the-badge&logo=linkedin&logoColor=faf7ff" alt="LinkedIn" /></a>
   <a href="mailto:kosatiks.group@gmail.com"><img src="https://img.shields.io/badge/Email-kosatiks.group%40gmail.com-F4A9C8?style=for-the-badge&logo=gmail&logoColor=1e1828" alt="Email" /></a>
@@ -71,6 +77,17 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEZv&theme=dark&hide_border=true&background=15121c&ring=b8a9e8&fire=f4a9c8&currStreakLabel=e8e0ff&sideLabels=a8a0c4&dates=a8a0c4" alt="GitHub streak" />
+</p>
+
+## 📈 Activity overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEZv&bg_color=15121c&color=c9b1ff&line=f4a9c8&point=e8e0ff&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TEZv&theme=transparent&bg_color=15121c&hide_border=true" alt="Contribution breakdown" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TEZv&theme=transparent&bg_color=15121c&hide_border=true" alt="Productive time" />
 </p>
 
 ---
