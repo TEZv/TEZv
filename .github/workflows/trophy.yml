@@ -1,0 +1,29 @@
+name: Generate profile trophies
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 4 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: "username=TEZv&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=3"
+          path: dist/github-trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: "chore: update profile trophies"
+          add: "dist/github-trophies.svg"

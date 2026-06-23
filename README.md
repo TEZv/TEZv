@@ -90,7 +90,7 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TEZv&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=3" alt="GitHub trophies" />
+  <img src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/github-trophies.svg" alt="GitHub trophies" />
 </p>
 
 <p align="center">
