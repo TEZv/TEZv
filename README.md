@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TEZv&label=Profile%20views&color=f4a9c8&style=plastic" alt="Profile views" />
+  <a href="https://wakatime.com/@b4a6f099-22c2-4ff5-9ed3-e95624ee86a9"><img src="https://wakatime.com/badge/user/b4a6f099-22c2-4ff5-9ed3-e95624ee86a9.svg" alt="WakaTime" /></a>
 </p>
 
 <p align="center">
