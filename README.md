@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TEZv&label=Profile%20views&color=f4a9c8&style=plastic" alt="Profile views" />
-  <img src="https://img.shields.io/github/commit-activity/t/TEZv/TEZv?label=commits%20%28profile%29&color=C9B1FF&style=plastic" alt="Recent commits" />
+  <a href="https://github.com/TEZv/TEZv/blob/main/dist/coding-stats.json"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TEZv/TEZv/main/dist/coding-stats.json&style=plastic&logo=clock&logoColor=white" alt="Coding time" /></a>
   <img src="https://img.shields.io/github/commit-activity/t/TEZv/de-lab?label=de-lab&color=A78BFA&style=plastic" alt="de-lab activity" />
 </p>
 
