@@ -7,8 +7,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TEZv&label=Profile%20views&color=f4a9c8&style=plastic" alt="Profile views" />
-  <a href="https://wakatime.com/@b4a6f099-22c2-4ff5-9ed3-e95624ee86a9"><img src="https://img.shields.io/badge/wakatime-0%20secs%20→%20tracking-A78BFA?style=plastic&logo=wakatime&logoColor=faf7ff" alt="WakaTime" /></a>
-  <!-- коли з’явиться час: замінити на https://wakatime.com/badge/user/b4a6f099-22c2-4ff5-9ed3-e95624ee86a9.svg -->
+  <img src="https://img.shields.io/github/commit-activity/t/TEZv/TEZv?label=commits%20%28profile%29&color=C9B1FF&style=plastic" alt="Recent commits" />
+  <img src="https://img.shields.io/github/commit-activity/t/TEZv/de-lab?label=de-lab&color=A78BFA&style=plastic" alt="de-lab activity" />
 </p>
 
 <p align="center">
@@ -87,6 +87,17 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TEZv&theme=transparent&bg_color=15121c&hide_border=true" alt="Contribution breakdown" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TEZv&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=3" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TEZv/TEZv/dist/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TEZv/TEZv/dist/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -229,5 +240,3 @@ Currently: **Data & Engineering Analyst** at Starlight Media · Co-founder & Tec
 <p align="center">
   <i>From Kyiv, Ukraine — strategist, producer, creator. J Lover.</i>
 </p>
-
-
