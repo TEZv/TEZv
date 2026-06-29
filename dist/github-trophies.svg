@@ -60,7 +60,7 @@
         width: 0px;
       }
       to {
-        width: 80px;
+        width: 80.00px;
       }
     }
     #MultiLanguage-rank-progress{
@@ -140,7 +140,7 @@
         width: 0px;
       }
       to {
-        width: 80px;
+        width: 80.00px;
       }
     }
     #Organizations-rank-progress{
@@ -251,7 +251,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#ff79c6">Repositories</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#f8f8f2">God Repo Creator</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#f8f8f2">50pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#f8f8f2">51pt</text>
           
     <style>
     @keyframes RepositoriesRankAnimation {
@@ -259,7 +259,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 80px;
+        width: 80.00px;
       }
     }
     #Repositories-rank-progress{
@@ -361,7 +361,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#ff79c6">Commits</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#f8f8f2">Deep Committer</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#f8f8f2">3.4kpt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#f8f8f2">3.5kpt</text>
           
     <style>
     @keyframes CommitsRankAnimation {
@@ -369,7 +369,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 54.92px;
+        width: 60.04px;
       }
     }
     #Commits-rank-progress{
@@ -470,7 +470,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 45.33333333333333px;
+        width: 45.33px;
       }
     }
     #PullRequest-rank-progress{
@@ -571,7 +571,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 34.285714285714285px;
+        width: 34.29px;
       }
     }
     #Experience-rank-progress{
@@ -641,21 +641,21 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
   </svg>
   
-          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#ff79c6">Followers</text>
-          <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#f8f8f2">Many Friends</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#f8f8f2">12pt</text>
+          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#ff79c6">Issues</text>
+          <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#f8f8f2">Middle Issuer</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#f8f8f2">10pt</text>
           
     <style>
-    @keyframes FollowersRankAnimation {
+    @keyframes IssuesRankAnimation {
       from {
         width: 0px;
       }
       to {
-        width: 16px;
+        width: 0.00px;
       }
     }
-    #Followers-rank-progress{
-      animation: FollowersRankAnimation 1s forwards ease-in-out;
+    #Issues-rank-progress{
+      animation: IssuesRankAnimation 1s forwards ease-in-out;
     }
     </style>
     <rect
@@ -668,7 +668,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
       fill="#ff79c6"
     />
     <rect
-      id="Followers-rank-progress"
+      id="Issues-rank-progress"
       x="15"
       y="101"
       rx="1"
@@ -721,21 +721,21 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
   </svg>
   
-          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#ff79c6">Issues</text>
-          <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#f8f8f2">Middle Issuer</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#f8f8f2">10pt</text>
+          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#ff79c6">Followers</text>
+          <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#f8f8f2">Many Friends</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#f8f8f2">12pt</text>
           
     <style>
-    @keyframes IssuesRankAnimation {
+    @keyframes FollowersRankAnimation {
       from {
         width: 0px;
       }
       to {
-        width: 0px;
+        width: 16.00px;
       }
     }
-    #Issues-rank-progress{
-      animation: IssuesRankAnimation 1s forwards ease-in-out;
+    #Followers-rank-progress{
+      animation: FollowersRankAnimation 1s forwards ease-in-out;
     }
     </style>
     <rect
@@ -748,7 +748,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
       fill="#ff79c6"
     />
     <rect
-      id="Issues-rank-progress"
+      id="Followers-rank-progress"
       x="15"
       y="101"
       rx="1"
@@ -811,7 +811,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 0px;
+        width: 0.00px;
       }
     }
     #Stars-rank-progress{
@@ -891,7 +891,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 0px;
+        width: 0.00px;
       }
     }
     #Reviews-rank-progress{
