@@ -67,12 +67,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=TEZv&show_icons=true&theme=radical&hide_border=true&bg_color=15121c&title_color=e8e0ff&text_color=a8a0c4&icon_color=c9b1ff&cache_seconds=1800" alt="GitHub stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TEZv&layout=compact&theme=radical&hide_border=true&bg_color=15121c&title_color=e8e0ff&text_color=a8a0c4&cache_seconds=1800" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/github-stats.svg" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/github-top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TEZv&theme=radical&hide_border=true&background=15121c&ring=b8a9e8&fire=f4a9c8&currStreakLabel=e8e0ff&sideLabels=a8a0c4&dates=a8a0c4" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/github-streak.svg" alt="GitHub streak" />
 </p>
 
 <p align="center">
