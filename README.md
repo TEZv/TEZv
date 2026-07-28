@@ -8,8 +8,13 @@
 </h3>
 
 <!-- GitHub README CSS often forces img { display:block } → separate shields become a column.
-     Fix: one composed SVG per row (see compose-badge-rows.py / dist/badges-*-row.svg). -->
-<img src="https://profile-views-vercel.vercel.app/api/pixel/tezv" width="0" height="0" alt="" />
+     Fix: composed SVG rows (compose_badge_rows.py). Profile views = live single img (not baked into SVG).
+     Pixel must be 1×1 (0×0 often skipped by GitHub Camo). Needs Upstash Redis on Vercel to persist. -->
+<img src="https://profile-views-vercel.vercel.app/api/pixel/tezv" width="1" height="1" alt="" />
+
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://profile-views-vercel.vercel.app/api/badge/tezv&label=Profile%20views&color=f4a9c8&labelColor=555555&style=plastic" alt="Profile views" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/badges-metrics-row.svg" alt="Profile metrics" />
