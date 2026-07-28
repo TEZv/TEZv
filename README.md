@@ -40,22 +40,13 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TEZv&theme=radical" alt="Profile details" width="100%" />
-</div>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TEZv&theme=radical" alt="Top languages by repo" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TEZv&theme=radical" alt="Top languages by commit" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=TEZv&show_icons=true&theme=radical&hide_border=true&bg_color=15121c&title_color=e8e0ff&text_color=a8a0c4&icon_color=c9b1ff&cache_seconds=1800" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TEZv&layout=compact&theme=radical&hide_border=true&bg_color=15121c&title_color=e8e0ff&text_color=a8a0c4&cache_seconds=1800" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TEZv&theme=radical" alt="GitHub stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TEZv&theme=radical" alt="Productive time" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEZv&theme=radical&hide_border=true&background=15121c&ring=b8a9e8&fire=f4a9c8&currStreakLabel=e8e0ff&sideLabels=a8a0c4&dates=a8a0c4" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=TEZv&theme=radical&hide_border=true&background=15121c&ring=b8a9e8&fire=f4a9c8&currStreakLabel=e8e0ff&sideLabels=a8a0c4&dates=a8a0c4" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -63,11 +54,19 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEZv&bg_color=15121c&color=c9b1ff&line=f4a9c8&point=e8e0ff&area=true&hide_border=true&custom_title=Contribution%20activity%20(with%20dates)" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/github-contribution-grid-snake.svg" width="100%" />
   </picture>
+</p>
+
+<p align="center">
+  <sub>Snake animates the contribution grid (Platane/snk has no month labels — dates are on the graph above).</sub>
 </p>
 
 ## Featured
