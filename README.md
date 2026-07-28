@@ -7,20 +7,23 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=C9B1FF&center=true&vCenter=true&width=720&height=40&lines=Strategist+%2F+Producer+%2F+Creator;Data+%26+AI-assisted+prototyping;J+Lover+%C2%B7+@K-RnD-Lab" alt="Typing SVG" /></a>
 </h3>
 
-<!-- metrics: ONE markdown line (HTML <p align=center>+img newlines = column on GitHub) -->
+<!-- GitHub README CSS often forces img { display:block } → separate shields become a column.
+     Fix: one composed SVG per row (see compose-badge-rows.py / dist/badges-*-row.svg). -->
 <img src="https://profile-views-vercel.vercel.app/api/pixel/tezv" width="0" height="0" alt="" />
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/badges-metrics-row.svg" alt="Profile metrics" />
+</p>
 
-![Profile views](https://img.shields.io/endpoint?url=https://profile-views-vercel.vercel.app/api/badge/tezv&label=Profile%20views&color=f4a9c8&labelColor=555555&style=plastic)&nbsp;![WakaTime today](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TEZv/TEZv/main/dist/wakatime-stats.json&style=plastic&logo=wakatime&logoColor=white)&nbsp;![WakaTime week](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TEZv/TEZv/main/dist/wakatime-stats-week.json&style=plastic&logo=wakatime&logoColor=white)&nbsp;![de-lab](https://img.shields.io/github/commit-activity/t/TEZv/de-lab?label=de-lab&color=A78BFA&style=plastic)&nbsp;![followers](https://img.shields.io/github/followers/TEZv?label=followers&style=plastic&color=8B7FD4&labelColor=555555)
+<p align="center">
+  <a href="https://kosatiks-group.pp.ua/"><img src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/badges-contact-row.svg" alt="Website · LinkedIn · Email · Ukraine" /></a>
+</p>
 
-</div>
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-kosatiks--group.pp.ua-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=faf7ff)](https://kosatiks-group.pp.ua/)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-oksana--kolisnyk-8B7FD4?style=for-the-badge&logo=linkedin&logoColor=faf7ff)](https://www.linkedin.com/in/oksana-kolisnyk-0b9632247/)&nbsp;[![Email](https://img.shields.io/badge/Email-kosatiks.group%40gmail.com-F4A9C8?style=for-the-badge&logo=gmail&logoColor=1e1828)](mailto:kosatiks.group@gmail.com)&nbsp;![Made in Ukraine](https://img.shields.io/badge/Made%20in-Ukraine%20UA-7BA3D8?style=for-the-badge)
-
-</div>
+<p align="center">
+  <a href="https://kosatiks-group.pp.ua/">Website</a> ·
+  <a href="https://www.linkedin.com/in/oksana-kolisnyk-0b9632247/">LinkedIn</a> ·
+  <a href="mailto:kosatiks.group@gmail.com">Email</a>
+</p>
 
 ## About
 
