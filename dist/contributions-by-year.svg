@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="220" viewBox="0 0 680 220">
+<rect width="680" height="220" rx="12" fill="#15121c"/>
+<text x="24" y="32" fill="#e8e0ff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="600">Contributions by year</text>
+<text x="656" y="32" text-anchor="end" fill="#a8a0c4" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">TEZv · public graph</text>
+<rect x="56.0" y="160.1" width="105.6" height="19.9" rx="6" fill="#8B7FD4"/>
+<text x="108.8" y="152.1" text-anchor="middle" fill="#faf7ff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600">578</text>
+<text x="108.8" y="204" text-anchor="middle" fill="#a8a0c4" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">2022</text>
+<rect x="179.6" y="156.3" width="105.6" height="23.7" rx="6" fill="#A78BFA"/>
+<text x="232.4" y="148.3" text-anchor="middle" fill="#faf7ff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600">689</text>
+<text x="232.4" y="204" text-anchor="middle" fill="#a8a0c4" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">2023</text>
+<rect x="303.2" y="164.8" width="105.6" height="15.2" rx="6" fill="#C9B1FF"/>
+<text x="356.0" y="156.8" text-anchor="middle" fill="#faf7ff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600">442</text>
+<text x="356.0" y="204" text-anchor="middle" fill="#a8a0c4" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">2024</text>
+<rect x="426.8" y="172.0" width="105.6" height="8.0" rx="6" fill="#F4A9C8"/>
+<text x="479.6" y="164.0" text-anchor="middle" fill="#faf7ff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600">206</text>
+<text x="479.6" y="204" text-anchor="middle" fill="#a8a0c4" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">2025</text>
+<rect x="550.4" y="48.0" width="105.6" height="132.0" rx="6" fill="#f5b8c4"/>
+<text x="603.2" y="40.0" text-anchor="middle" fill="#faf7ff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" font-weight="600">3832</text>
+<text x="603.2" y="204" text-anchor="middle" fill="#a8a0c4" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">2026</text>
+</svg>
