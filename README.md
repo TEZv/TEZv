@@ -7,14 +7,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=C9B1FF&center=true&vCenter=true&width=720&height=40&lines=Strategist+%2F+Producer+%2F+Creator;Data+%26+AI-assisted+prototyping;J+Lover+%C2%B7+@K-RnD-Lab" alt="Typing SVG" /></a>
 </h3>
 
-<!-- GitHub README CSS often forces img { display:block } → separate shields become a column.
-     Fix: composed SVG rows (compose_badge_rows.py). Profile views = live single img (not baked into SVG).
-     Pixel must be 1×1 (0×0 often skipped by GitHub Camo). Needs Upstash Redis on Vercel to persist. -->
+<!-- GitHub README: separate shields stack vertically → one composed SVG row.
+     Pixel 1×1 (Camo). Metrics row rebuilt on waka publish (includes live profile views). -->
 <img src="https://profile-views-vercel.vercel.app/api/pixel/tezv" width="1" height="1" alt="" />
-
-<p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://profile-views-vercel.vercel.app/api/badge/tezv&label=Profile%20views&color=f4a9c8&labelColor=555555&style=plastic" alt="Profile views" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/badges-metrics-row.svg" alt="Profile metrics" />
