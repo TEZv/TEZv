@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="240" viewBox="0 0 420 240" role="img" aria-label="Terminal">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e1828"/>
+      <stop offset="100%" stop-color="#15121c"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="240" rx="14" fill="url(#bg)" stroke="#2a2438" stroke-width="1"/>
+  <rect x="0" y="0" width="420" height="34" rx="14" fill="#241c32"/>
+  <rect x="0" y="20" width="420" height="14" fill="#241c32"/>
+  <circle cx="22" cy="17" r="5" fill="#F4A9C8"/>
+  <circle cx="40" cy="17" r="5" fill="#C9B1FF"/>
+  <circle cx="58" cy="17" r="5" fill="#8B7FD4"/>
+  <text x="210" y="21" text-anchor="middle" fill="#a8a0c4" font-family="JetBrains Mono, Consolas, monospace" font-size="11">tezv  zsh</text>
+
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="13">
+    <text x="18" y="62" fill="#8B7FD4">$</text>
+    <text x="36" y="62" fill="#e8e0ff">
+      <tspan>whoami</tspan>
+    </text>
+    <text x="18" y="88" fill="#faf7ff">Oksana Kolisnyk</text>
+
+    <text x="18" y="120" fill="#8B7FD4">$</text>
+    <text x="36" y="120" fill="#e8e0ff">roles --pretty</text>
+    <text x="18" y="146" fill="#C9B1FF">Strategist · Producer · Creator</text>
+
+    <text x="18" y="178" fill="#8B7FD4">$</text>
+    <text x="36" y="178" fill="#e8e0ff">focus</text>
+    <text x="18" y="204" fill="#F4A9C8">Data &amp; AI-assisted prototyping</text>
+
+    <rect x="18" y="218" width="8" height="14" fill="#C9B1FF">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
