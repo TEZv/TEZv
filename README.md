@@ -25,14 +25,14 @@
   <a href="mailto:kosatiks.group@gmail.com">Email</a>
 </p>
 
-## About
+## ✦ About
 
 - **Data Analyst** working across media analytics, KPI logic, reporting automation, and decision support
 - **Analytics Engineering responsibilities:** repeatable transformations, trusted metrics, validation, and reporting layers
 - Building verifiable **Data Engineering** evidence through MS SQL Server, database reliability, CI/CD, Azure SQL, and Terraform
 - Currently: **Business Data Analyst** at Starlight Media · Co-founder & Technical Producer at **[Kosatiks Group](https://kosatiks-group.pp.ua/)** · Research hub lead at **[@K-RnD-Lab](https://github.com/K-RnD-Lab)**
 
-## Skills & Tools
+## 🧰 Skills & Tools
 
 **Core & apps**
 
@@ -64,7 +64,7 @@
   <img src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/badges-skills-automation.svg" alt="Automation and deploy skills" />
 </p>
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/github-stats.svg" alt="GitHub stats" />
@@ -79,7 +79,7 @@
   <img src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/github-trophies.svg" alt="GitHub trophies" />
 </p>
 
-### Activity over years
+### 🗓️ Activity over years
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/contributions-by-year.svg" alt="Contributions by year" />
@@ -97,7 +97,7 @@
   </picture>
 </p>
 
-## Featured
+## ✨ Featured
 
 <table>
 <tr>
