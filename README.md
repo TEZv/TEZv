@@ -129,24 +129,24 @@
 <tr>
 <td width="50%">
 
-[![Kosatiks-Group](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=Kosatiks-Group&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&hide_border=true)](https://github.com/TEZv/Kosatiks-Group)
+[![Data-Specialist-Portfolio](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=Data-Specialist-Portfolio&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&hide_border=true)](https://github.com/TEZv/Data-Specialist-Portfolio)
 
 </td>
 <td width="50%">
 
-[![homepage](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=homepage&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&hide_border=true)](https://github.com/TEZv/homepage)
+[![mssql-data-engineering-portfolio](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=mssql-data-engineering-portfolio&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&hide_border=true)](https://github.com/TEZv/mssql-data-engineering-portfolio)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![de-lab](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=de-lab&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&hide_border=true)](https://github.com/TEZv/de-lab)
+[![lakehouse-finance-data-engineering](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=lakehouse-finance-data-engineering&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&hide_border=true)](https://github.com/TEZv/lakehouse-finance-data-engineering)
 
 </td>
 <td width="50%">
 
-[![Data-Specialist-Portfolio](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=Data-Specialist-Portfolio&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&hide_border=true)](https://github.com/TEZv/Data-Specialist-Portfolio)
+[![de-lab](https://github-readme-stats-fast.vercel.app/api/pin?username=TEZv&repo=de-lab&title_color=e8e0ff&icon_color=c9b1ff&text_color=a8a0c4&bg_color=15121c&hide_border=true)](https://github.com/TEZv/de-lab)
 
 </td>
 </tr>
