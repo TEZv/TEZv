@@ -44,7 +44,7 @@ This separation is deliberate: a technology is claimed at the evidence level sho
 
 ### ✦ `> about.`
 
-<img align="right" src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/about-terminal.svg" alt="terminal" width="380" />
+<img align="right" src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/about-terminal.svg?v=a7e2390" alt="terminal" width="380" />
 
 🔭 **Currently working on:** early-stage clarity — positioning, research, and first working prototypes.
 
