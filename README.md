@@ -38,6 +38,8 @@
 
 This separation is deliberate: a technology is claimed at the evidence level shown, not merely because it appears in a course or a badge.
 
+> 🎯 **Target positioning:** Data & Analytics Engineer — Middle-level portfolio. The technical work demonstrates design, delivery, automated verification and operational documentation; commercial and independent evidence remain explicitly labelled.
+
 ---
 
 ### ✦ `> about.`
