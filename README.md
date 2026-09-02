@@ -27,6 +27,19 @@
 
 ---
 
+### 🧭 `> how to read this profile.`
+
+| Evidence type | What it means | Where to verify |
+|:---|:---|:---|
+| 🎓 **Education & credentials** | Formal education and only verified courses/certifications | [Credentials register](https://github.com/TEZv/Data-Specialist-Portfolio/blob/main/docs/CREDENTIALS_AND_EVIDENCE.md) |
+| 🏢 **Professional context** | Anonymized real-work scope; no proprietary datasets, code or dashboards | [Professional evidence boundary](https://github.com/TEZv/Data-Specialist-Portfolio/blob/main/docs/CREDENTIALS_AND_EVIDENCE.md#-commercial-foundation--non-confidential-evidence) |
+| 🧪 **Portfolio delivery** | Independent, reproducible projects with public code and CI | [MS SQL](https://github.com/TEZv/mssql-data-engineering-portfolio) · [Lakehouse](https://github.com/TEZv/lakehouse-finance-data-engineering) |
+| 🎒 **Academy / learning** | Completed educational cases or practice; never labelled commercial delivery | [TaskFlow](https://github.com/TEZv/Genesis-Academy_Strategy-Operations-School-2.0-Case-Task) · [de-lab](https://github.com/TEZv/de-lab) |
+
+This separation is deliberate: a technology is claimed at the evidence level shown, not merely because it appears in a course or a badge.
+
+---
+
 ### ✦ `> about.`
 
 <img align="right" src="https://raw.githubusercontent.com/TEZv/TEZv/main/dist/about-terminal.svg" alt="terminal" width="380" />
