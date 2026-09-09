@@ -38,6 +38,10 @@
 
 This separation is deliberate: a technology is claimed at the evidence level shown, not merely because it appears in a course or a badge.
 
+📨 **New independent module:** [Kafka delivery and replay lab](https://github.com/TEZv/lakehouse-finance-data-engineering/tree/main/labs/kafka) — Python producer/consumer, versioned state, quarantine and replay tests. [Broker CI](https://github.com/TEZv/lakehouse-finance-data-engineering/actions/workflows/kafka-ci.yml) records execution status.
+
+🧭 **Platform coverage:** [implemented evidence vs next steps](https://github.com/TEZv/Data-Specialist-Portfolio/blob/main/docs/PLATFORM_COVERAGE.md). Airflow, dbt, Hive/Hadoop, Kubernetes and controlled cloud deployment are tracked separately; planned tools are not presented as professional experience.
+
 > 🎯 **Target positioning:** Data & Analytics Engineer — Middle-level portfolio. The technical work demonstrates design, delivery, automated verification and operational documentation; commercial and independent evidence remain explicitly labelled.
 
 ---
