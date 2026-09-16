@@ -40,7 +40,7 @@ This separation is deliberate: a technology is claimed at the evidence level sho
 
 🧩 **Independent platform labs:** [Kafka · Airflow · dbt · Hive/HDFS · Kubernetes](https://github.com/TEZv/lakehouse-finance-data-engineering/tree/main/labs) — event replay, orchestration, incremental SQL models, partitioned storage and restricted batch Jobs. [Verified execution evidence](https://github.com/TEZv/lakehouse-finance-data-engineering/blob/main/docs/PLATFORM_EXECUTION_EVIDENCE.md) includes a successful four-platform CI run.
 
-🧭 **Platform coverage:** [implemented evidence vs next steps](https://github.com/TEZv/Data-Specialist-Portfolio/blob/main/docs/PLATFORM_COVERAGE.md). These modules are implemented independent labs; controlled cloud deployment and production-scale operations are not claimed. [Ukrainian walkthrough](https://github.com/TEZv/lakehouse-finance-data-engineering/blob/main/docs/PLATFORM_INTERVIEW_UA.md).
+🧭 **Platform coverage:** [implemented evidence vs next steps](https://github.com/TEZv/Data-Specialist-Portfolio/blob/main/docs/PLATFORM_COVERAGE.md). These modules are implemented independent labs; controlled cloud deployment and production-scale operations are not claimed. Personal application documents and employment references are shared privately.
 
 > 🎯 **Target positioning:** Data & Analytics Engineer — Middle-level portfolio. The technical work demonstrates design, delivery, automated verification and operational documentation; commercial and independent evidence remain explicitly labelled.
 
@@ -58,7 +58,7 @@ This separation is deliberate: a technology is claimed at the evidence level sho
 
 💬 **Ask me about:** turning ambiguous ideas into usable first versions — or why *J* stays in the story.
 
-⚡ **Fun fact:** **J Lover** — in work and in fiction. Currently: Data & Engineering Analyst at Starlight Media · Co-founder at **[Kosatiks Group](https://kosatiks-group.pp.ua/)**.
+⚡ **Fun fact:** **J Lover** — in work and in fiction. Currently: Analyst at Starlight Media · Co-founder at **[Kosatiks Group](https://kosatiks-group.pp.ua/)**. Portfolio focus: Analytics Engineering & Data Engineering.
 
 <br clear="right"/>
 
